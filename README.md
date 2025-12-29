@@ -52,6 +52,13 @@
 - pip install -e .
 - flwr run . OR flwr run . --run-config "num-server-rounds=5 local-epochs=3"
 
+- New: <!-- 1404-10-08 -->
+- pip install -U "flwr[simulation]"
+- flwr new @flwrlabs/quickstart-pytorch
+- cd quickstart-pytorch
+- pip install -e .
+- flwr run .
+
 ### PySyft:
 
 
