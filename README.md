@@ -5,6 +5,9 @@
   - Strategy: https://flower.ai/docs/framework/ref-api/flwr.server.strategy.html
 - PySyft: https://github.com/OpenMined/PySyft
 - FedML: https://github.com/FedML-AI/FedML
+- FATE: https://github.com/FederatedAI/FATE
+- openfederatedlearning: https://github.com/securefederatedai/openfederatedlearning
+- FedLab: https://github.com/SMILELab-FL/FedLab
 
 <!-- 1404-07-19 -->
 ### Federated Learning:
