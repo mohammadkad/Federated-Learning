@@ -6,4 +6,7 @@
 - PySyft: https://github.com/OpenMined/PySyft
 - FedML: https://github.com/FedML-AI/FedML
 
+## Others:
+- Incentive-Based Federated Learning
+
 
