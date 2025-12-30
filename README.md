@@ -9,6 +9,9 @@
 - openfederatedlearning: https://github.com/securefederatedai/openfederatedlearning
 - FedLab: https://github.com/SMILELab-FL/FedLab
 
+## Benchmark:
+- leaf: https://github.com/TalwalkarLab/leaf
+
 <!-- 1404-07-19 -->
 ### Federated Learning:
 - Federated learning is a machine learning technique that trains a model collaboratively across multiple devices without centralizing sensitive data.
