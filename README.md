@@ -66,6 +66,8 @@
 - FedProx: Federated Optimization in Heterogeneous Networks, https://flower.ai/docs/framework/ref-api/flwr.server.strategy.FedProx.html
 -  
 
+#### Datasets:
+- FEMNIST (Federated Extended MNIST), extends MNIST to letters + digits.
 ### PySyft:
 
 
