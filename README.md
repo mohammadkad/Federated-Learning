@@ -68,6 +68,10 @@
 
 #### Datasets:
 - FEMNIST (Federated Extended MNIST), extends MNIST to letters + digits.
+
+#### Encryption:
+- Homomorphic Encryption (HE)
+
 ### PySyft:
 
 
