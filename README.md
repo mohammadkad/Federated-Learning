@@ -63,6 +63,7 @@
 - flwr run .
 
 #### baselines: https://github.com/adap/flower/tree/main/baselines
+- https://flower.ai/docs/baselines/
 - FedProx: Federated Optimization in Heterogeneous Networks, https://flower.ai/docs/framework/ref-api/flwr.server.strategy.FedProx.html
 -  
 
