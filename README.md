@@ -70,8 +70,10 @@
 #### Datasets:
 - FEMNIST (Federated Extended MNIST), extends MNIST to letters + digits.
 
-#### Encryption:
-- Homomorphic Encryption (HE)
+#### Privacy Preservation in Federated Learning:
+- Homomorphic encryption (HE)
+- Secure multi-party computation (SMC)
+- Secret sharing
 
 ### PySyft:
 
