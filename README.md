@@ -10,6 +10,10 @@
 - FedLab: https://github.com/SMILELab-FL/FedLab
 - PFLlib: https://www.pfllib.com/quickstart.html <!-- 1405-03-24 -->
 
+## Algorithms:
+- Traditional FL (tFL)
+- Personalized FL (pFL)
+
 ## Benchmark:
 - leaf: https://github.com/TalwalkarLab/leaf
 
