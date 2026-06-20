@@ -8,6 +8,7 @@
 - FATE: https://github.com/FederatedAI/FATE
 - openfederatedlearning: https://github.com/securefederatedai/openfederatedlearning
 - FedLab: https://github.com/SMILELab-FL/FedLab
+- NEBULA: https://github.com/CyberDataLab/nebula <!-- 1405-03-30 -->
 - PFLlib: https://www.pfllib.com/quickstart.html <!-- 1405-03-24 -->
 
 ## Algorithms:
