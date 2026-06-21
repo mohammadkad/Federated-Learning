@@ -10,6 +10,7 @@
 - FedLab: https://github.com/SMILELab-FL/FedLab
 - NEBULA: https://github.com/CyberDataLab/nebula <!-- 1405-03-30 -->
 - PFLlib: https://www.pfllib.com/quickstart.html <!-- 1405-03-24 -->
+- federated-learning: https://github.com/shaoxiongji/federated-learning <!-- 1405-03-31 -->
 
 ## Algorithms:
 - Traditional FL (tFL)
