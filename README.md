@@ -83,9 +83,6 @@
 - Secure multi-party computation (SMC)
 - Secret sharing
 
-### PySyft:
-
-
 ## Others:
 - Incentive-Based Federated Learning
 
