@@ -86,4 +86,6 @@
 ## Others:
 - Incentive-Based Federated Learning
 
+## Courses:
+- https://www.coursera.org/learn/intro-to-federated-learning or https://www.deeplearning.ai/courses/intro-to-federated-learning
 
