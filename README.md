@@ -12,6 +12,7 @@
 - PFLlib: https://www.pfllib.com/quickstart.html <!-- 1405-03-24 -->
 - federated-learning: https://github.com/shaoxiongji/federated-learning <!-- 1405-03-31 -->
 - Fling: https://github.com/FLAIR-Community/Fling <!-- 1405-03-31 -->
+- just-federated-learning: https://github.com/Pujan-Dev/just-federated-learning <!-- 1405-05-28 -->
 
 ## Algorithms:
 - Traditional FL (tFL)
